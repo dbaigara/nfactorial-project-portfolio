@@ -1,0 +1,13 @@
+.btn_check {
+    background-color: #fd5a14;
+    border-radius: 2px;
+    padding: 16px 24px;
+    border: none;
+    /* color: white; */
+}
+.btn-text {
+    margin: 0;
+    font-weight: 700;
+    color: #ffffff;
+    
+}
