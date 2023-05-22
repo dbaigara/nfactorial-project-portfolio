@@ -1,0 +1,28 @@
+.contacts {
+    height: 400px;
+}
+.contact_main {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+    
+}
+.cont_desc {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+}
+.button {
+    background-color: orange;
+    width: 160px;
+    height: 56px;
+    border: none;
+    border-radius: 2px;
+}
+.anchor {
+    margin: 0;
+    color: wheat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 28px;
+}

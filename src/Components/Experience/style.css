@@ -1,0 +1,25 @@
+.experience_main {
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+}
+.exp_role {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+}
+.exp_year {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+}
+.exp_city {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+.exp_descriptions {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
