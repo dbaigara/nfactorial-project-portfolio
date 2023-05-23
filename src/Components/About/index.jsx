@@ -25,7 +25,7 @@ export default function About(){
                 </ul>
 
             </div>
-            <div className='col-3 '>
+            <div className='col-3'>
                 <img className='logo p-5 mt-3' src={LOGO} alt="logo" />
             </div>
         </div>
